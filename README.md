@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hello World! 🌍
+
+Welcome to my GitHub profile!
+
+I am a Ph.D. student specializing in science and engineering. My journey in academia has been both challenging and rewarding, and I am eager to expand my knowledge and skills in coding through this platform.
+
+GitHub is a fantastic community for collaboration and learning, and I am excited to be a part of it. I look forward to connecting with fellow developers and researchers, sharing insights, and contributing to innovative projects.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's learn and grow together!
+
+Happy coding! 🚀
 
 <!--
 **Yang2308/Yang2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
